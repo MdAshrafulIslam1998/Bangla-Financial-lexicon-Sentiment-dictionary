@@ -11,6 +11,8 @@ The financial lexicon data dictionary is a list of words used to calculate the s
 
 This dataset was a crucial part of our research published in the journal paper titled **"Stock Market Prediction of Bangladesh Using Multivariate Long Short-Term Memory with Sentiment Identification."** The paper can be accessed and cited at **http://doi.org/10.11591/ijece.v13i5.pp5696-5706**.
 
+Kaggle: **https://www.kaggle.com/datasets/mdashrafulislam1998/bangla-financial-lexicon-data-dictionary** 
+
 ### Understanding the Categories:
 
 **Bull words**
