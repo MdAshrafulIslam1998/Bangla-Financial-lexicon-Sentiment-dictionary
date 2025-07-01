@@ -5,7 +5,7 @@ Bangla Financial Lexicon Data Dictionary for Precise Sentiment Analysis.
 🔴 **Download** the **"Bangla Financial lexicon Sentiment dictionary.zip"** file and extract it. 
 
 ### About Dataset
-**Welcome** to the Bangla Financial Lexicon Data Dictionary project!
+**Welcome** to the Bangla Financial Lexicon Data Dictionary project! 
 
 The financial lexicon data dictionary is a list of words used to calculate the sentiment of financial news articles. Bangla words were collected from an online Bangla dictionary API and manually categorized into 6 weighted groups. To accurately determine the sentiment of sentences, a lexicon data dictionary is required. This project's lexicon data dictionary only contains Bangla words and includes words with positive sentiment and words with negative sentiment.
 
