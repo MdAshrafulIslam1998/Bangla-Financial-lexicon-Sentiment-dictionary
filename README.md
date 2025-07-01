@@ -2,7 +2,7 @@
 Bangla Financial Lexicon Data Dictionary for Precise Sentiment Analysis.
 
 ### Downloads
-🔴 **Download** the **"Bangla Financial lexicon Sentiment dictionary.zip"** file and extract it.
+🔴 **Download** the **"Bangla Financial lexicon Sentiment dictionary.zip"** file and extract it. 
 
 ### About Dataset
 **Welcome** to the Bangla Financial Lexicon Data Dictionary project!
